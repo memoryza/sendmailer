@@ -1,0 +1,2 @@
+基于nodemailer发送邮件，其中需要在对应的邮件服务器开启smtp服务器
+node mail.js
